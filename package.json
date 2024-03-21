@@ -1,6 +1,6 @@
 {
-  "name": "simple-cli-calculator",
-  "version": "1.0.0",
+  "name": "phezee-cli-calculator",
+  "version": "1.0.1",
   "description": "This is a simple commandline interface calculator made with typescript",
   "main": "index.js",
   "type": "module",
